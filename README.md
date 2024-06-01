@@ -1,2 +1,1 @@
-# glorycraft1.github.io
-just for designs
+All my portfolio projects
